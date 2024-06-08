@@ -1,10 +1,11 @@
 # GEPPRI
-The interactions between proteins and peptides are one of the most crucial biological interactions and are implicated in abnormal cellular behaviors leading to diseases such as cancer. Thus, knowledge of these interactions provides invaluable insights into all cellular processes such as DNA repair, replication, gene expression and metabolism, and drug discovery to treat many diseases including cancer. In this regard, we introduce a stack deep learning-based ensemble model, GEPPRI, that incorporates various features obtained from protein sequences and structures. The proposed framework relies on three pipelines: pre-processing, processing, and post-processing. In other words, the combination of employed close neighbor correlation coefficient (CNCC), Half-sphere exposure group (HSE), local backbone angles (LBA), physicochemical properties (PP), amino acid occurrence (AAO), and a type of stack deep learning (DL)-based ensemble model resulted in superior performance compared to the sequence-based and structured-based state-of-the-art methods using the two datasets.
+The interactions between proteins and peptides are one of the most crucial biological interactions and are implicated in abnormal cellular behaviors leading to diseases such as cancer. Thus, knowledge of these interactions provides invaluable insights into all cellular processes such as DNA repair, replication, gene expression and metabolism, and drug discovery to treat many diseases including cancer. 
+In this regard, we introduce a stack ensemble deep learning model, GEPPRI, that incorporates various features obtained from protein sequences and structures. The proposed framework relies on three pipelines: pre-processing, processing, and post-processing. In other words, the combination of employed close neighbor correlation coefficient (CNCC), Half-sphere exposure group (HSE), local backbone angles (LBA), physicochemical properties (PP), amino acid occurrence (AAO), and a type of stack ensemble deep learning model resulted in superior performance compared to the sequence-based and structured-based state-of-the-art methods using the two commonly datasets.
 
 # GEPPRI
 ****Protein-peptide interaction region residues prediction using generative sampling technique and ensemble deep learning-based models.****
 
-Please cite the relevant publication if you will employ this study.
+Please cite the relevant publication if you will use this study.
 
 ***Citation: S. Shafiee, A. Fathi and G. Taherzadeh, Protein-peptide interaction region residues prediction using generative sampling technique and ensemble deep learning-based models.***
 
