@@ -54,7 +54,7 @@ DResNet
 
 **The post-processing pipeline contains the following files:**
 
-Ensemble 
+Stacked ensemble deep learning framework 
 
 # Guide
 
