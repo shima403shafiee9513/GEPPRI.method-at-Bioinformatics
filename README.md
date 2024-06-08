@@ -61,6 +61,28 @@ Stacked ensemble deep learning framework
 
 The result obtained in our study can be replicated by executing the Dataset1_GEPPRI for Dataset1, and Dataset2_GEPPRI for Dataset2. To achieve the result of GEPPRI on dataset1, all the above files should be provided in one folder and run the pre-processing pipeline, processing pipeline, and post-processing pipeline respectively in an operating system.
 
+# System requirement
+
+numpy 1.21.2
+
+pandas 1.1.3
+
+torch 1.8.0
+
+biopython 1.79
+
+cv2 ( interface in OpenCV versions is named as cv )
+
+python 3.7.9
+
+math1.2.7
+
+scipy 1.2.9
+
+cPickle 1.2.8
+
+pickle 1.2.7
+
 # Contact
 
 It was a pleasure to receive your comment and any feedback you can give us on this source code.
