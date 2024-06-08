@@ -85,8 +85,6 @@ pickle 1.2.7
 
 # Contact
 
-It was a pleasure to receive your comment and any feedback you can give us on this source code.
-
 For further details or questions, it is possible to communicate via email (shafiee.shima@razi.ac.ir)
 
 % Best Regards % 
